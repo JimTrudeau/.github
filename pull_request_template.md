@@ -1,1 +1,1 @@
-This is a PR template inside .github repo, .github directory, rather than root
+This is a PR template at the root of .github, rather than in .github/.github
