@@ -7,32 +7,56 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Prerequisites**
+
+Can you reproduce the problem reliably?
+
+Did you check current release notes for known issues?
+
+If this is not the latest release, have you checked newer releases? 
+
+**Description**:
+
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Steps to Reproduce:**
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+1.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+2.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+3.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Expected Result:**
 
-**Additional context**
-Add any other context about the problem here.
+
+
+**Actual Result:**
+
+
+
+**Frequency (1/1, 1/50, 1/100):**
+
+
+
+**Build/Commit:**
+
+Please specify the release, like 1.4.1. If there is no release, give us the commit for the code you used.
+
+**Target:**
+
+The chip or kit you are working with
+
+**Host OS and Version:**
+
+MacOS, Windows, Linux
+
+**Compiler:**
+
+Include the version!
+
+**Environment**
+
+Provide the context surrounding this problem. Perhaps an IDE, a debug probe, an RTOS, etc. (and versions)
+
+###### THANKS!
